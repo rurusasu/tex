@@ -43,9 +43,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 現在の商品生産方式はこれまでと大きく変わってきている. 高度経済成長期には, 大量生産で製造コストを下げ, 一般に普及させることが重要であった. このような少品種大量生産は, ラインの流れ作業による製造を生み, 同時に増加した繰り返し作業をロボットが代行することで自動化が図られた. 一方, 現在では消費者嗜好の多様化に合わせて変種変量生産が求められることが多くなってきた. 要求が常に変動するような作業は, ロボットを変化に応じて環境整備 ・ 作業教示 ・ 調整をする必要が生じるが, これでは採算が合わないため, 依然として工場制手工業が多く残る. したがって, 人のように状況判断を行い, 幅のある業務をこなすことができるような汎用機械としてのロボットが求められるようになってきている. 
 
-汎用機械としてのロボットを目指すうえで, 重要なこととして井尻は次のように述べている.\\\\
-"専用機械としてのロボットから汎用機械としてのロボットに生まれ変わるためには, 対象・環境・タスクに対する汎用性が重要である."\\\\
-対象依存性をなくす研究としては, ロボット自身が試行錯誤に基づき動作を学習する深層学習や深層強化学習を用いたモデルが提案されている.
+これまで, 永田研究室では, CLデータを用いた多関節ロボットによる発泡スチロールの加工実験や, CLSデータに基づき教育用ロボットを動作させるCAD/CAMインタフェイスの提案を行ってきた~\cite{Otuka-2014,Suzuki-2018-1}.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -363,17 +361,25 @@ $\beta = \cos^{-1}(\cos \beta)$である. 最後に角度$\gamma$は, 補助線$
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{ニューラルネットワーク}
+\chapter{人工知能}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{人工知能}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+人工知能(artificial intellgence:AI)は, 1947年にアラン・チューリングによって提唱された概念であり, その定義は正確に定められておらず, 専門家によっても意見が異なる. 例えば, 次のような意見がある.
 
+\begin{table}[htb]
+	\begin{tabular}{l|l|p{7cm}}
+		\hline
+		栗原聡 & 電機通信大学 & 人工的につくられる知能であるが, その知能のレベルは人を越えているものを想像している \\ \hline
+		山川宏 & ドワンゴ人工知能研究所 & 計算機知能のうちで, 人間が直接・関節に設計する場合を人工知能と呼んで良いのではないかと思う \\ \hline
+		松尾豊 & 東京大学 & 人工的につくられた人間のような知能, ないしはそれをつくる技術. 人間のように知的であるとは, 「気づくことのできる」コンピュータ, つまり, データの中から特徴量を生成し現象をモデル化することのできるコンピュータという意味である \\
+		\hline
+	\end{tabular}
+\end{table}
 
-
-
-
+また, 定義が曖昧であるにも関わらず日常にはAIという言葉があふれている. この原因として, 新井は文献\cite{Arai-2018}にて,「AI」と「AI技術」という言葉が混同して使われている点を指摘している. 同文献によると, AI技術というのは, AIを実現するために開発されている様々な技術（音声認識技術, 自然言語処理技術, 画像処理技術など）であり, AIはAI技術開発の先にあるゴールである. 以後は, この文献に従いAIを実現するために開発されている技術, AI技術について説明していく.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{機械学習}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -439,56 +445,14 @@ Dobotの質量と可搬質量はそれぞれ3.4kgと500gであり, 位置繰り�
 \chapter{謝辞}%%%%%%%%%%%%%%% 謝辞 %%%%%%%
 本研究は，山口東京理科大学大学院基礎工学研究科基礎工学専攻で行われたものである．
 \begin{thebibliography}{}%%%参考文献%%%%%%
-\bibitem{Suzuki-2018}
-鈴木真太郎, 永田寅臣, 渡辺 桂吾 ``多関節ロボットのためのCAD/CAMインタフェイス", 日本機械工学会九州支部北九州講演会講演論文集, No. 188-3, 2018.
+\bibitem{Otuka-2014}
+大塚　章正, 永田　寅臣, 中村　航輔, ``CLデータの位置姿勢情報に基づく軌道追従制御器を用いた発泡スチロール加工ロボット", ロボティクス・メカトロニクス講演会2014 講演概要集, 3P1-L01, pp.1-3, 2014.
 
-\bibitem{Borangiu-2010}
-T. Borangiu, F.D. Anton and S. Anton, ``Open architecture for robot controllers,'' {\it Procs. of 2010 IEEE 19th International Workshop on Robotics in Alpe-Adria-Danube Region (RAAD)}, pp. 181--186, 2010.
+\bibitem{Suzuki-2018-1}
+鈴木真太朗，永田寅臣，渡辺桂吾，``教育用ロボットDOBOT のためのCAD/CAM インタフェイス”，ロボティクス・メカトロニクス講演会2018 講演論文集, 2P1-L07(1-2), 北九州国際会議場, 2018.
 
-\bibitem{Ying-2011}
-Z. Ying, W. Tianmiao, W. Hongxing, L. Miao, ``Robot software architecture based on IPv6,'' {\it Procs. of 6th IEEE Conference on Industrial Electronics and Applications}, pp. 1666--1671, 2011.
-
-\bibitem{Mizukawa-2001}
-水川　真，尾崎安男，``産業用ロボットにおけるネットワークインタフェースの標準化活動", 東芝レビュー，Vol. 56, No. 9, pp. 7--11, 2001.
-
-\bibitem{Mizukawa-2001-2}
-M. Mizukawa, T. Koyama, T. Inukai, A. Noda, N. Kanamaru, Y. Noguchi, and N. Otera, ``Proposal of open-network-interface for industrial robots (ORiN) and its experimental evaluation,'' {\it Procs. of 2001 IEEE/ASME International Conference on Advanced Intelligent Mechatronics}, pp.  689--694, 2001.
-
-\bibitem{Mizukawa-2002}
-M. Mizukawa, H. Matsuka, T. Koyama, T. Inukai, A. Noda, H. Tezuka, Y. Noguchi, and N. Otera, ``ORiN: open robot interface for the network-- the standard and unified network interface for industrial robot applications,'' {\it Procs. of the 41st SICE Annual Conference}, pp.  925--928, 2002.
-
-\bibitem{Mizukawa-2004}
-M. Mizukawa, S. Sakakibara, and N. Otera, ``Implementation and applications of open data network interface ORiN,'' {\it Procs. of the 43rd SICE Annual Conference}, pp. 1340--1343, 2004.
-
-\bibitem{Nagata-2000}
-永田寅臣，渡辺桂吾，泉　清高，``多軸制御用ＣＬデータに基づく位置補償器を用いた産業用ロボットの倣い制御"，精密工学会誌, Vol. 66, No. 3, pp. 473--477, 2000．
-
-\bibitem{Nagata-2013-1}
-F. Nagata and K. Watanabe,
-{\it Controller Design for Industrial Robots and Machine Tools: Applications to Manufacturing Processes},
-Woodhead Publishing, UK, 2013.
-
-%\bibitem{Interior-2006}
-%http://www.fitc.pref.fukuoka.jp/
-
-\bibitem{Nagata-2007}
-F. Nagata, Y. Kusumoto, Y. Fujimoto, and K. Watanabe, ``Robotic sanding system for new designed furniture with free-formed surface,''
-{\it Robotics and Computer-Integrated Manufacturing},
-Vol. 23, No. 4, pp. 371--379, 2007.
-
-\bibitem{Nagata-2014}
-F. Nagata, A. Otsuka, K. Watanabe and Maki K. Habib, ``Fuzzy feed rate controller for a machining robot,'' {\it Procs. of the 2014 IEEE International Conference on Mechatronics and Automation (IEEE ICMA 2014)}, pp. 198--203, 2014.
-
-
-\bibitem{VE026A}
-VE026A ORiN Option Users' Guide, Version 1.0.0, DENSO WAVE Inc., December 14th, 2012.
-
-\bibitem{ORiN2}
-ORiN2 Programming Guide, Version 1.0.12.0, DENSO WAVE Inc., September 7th, 2012.
-
-
-
-
+\bibitem{Arai-2018}
+新井紀子 『AI vs. 教科書が読めない子供たち』（東洋経済新報社, 2018）
 \end{thebibliography}
 
 
