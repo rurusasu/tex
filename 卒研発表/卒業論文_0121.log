@@ -1,4 +1,4 @@
-This is pTeXk, Version 3.141592-p3.1.9 (sjis) (Web2C 7.5.5) (format=platex 2006.4.29)  21 JAN 2020 11:21
+This is pTeXk, Version 3.141592-p3.1.9 (sjis) (Web2C 7.5.5) (format=platex 2006.4.29)  21 JAN 2020 16:15
  Source specials enabled.
 **卒業論文_0121.tex
 (./卒業論文_0121.tex
@@ -146,67 +146,67 @@ LaTeX Warning: Label `ForwardKinematicEquation_diff' multiply defined.
 )
 \openout1 = `卒業論文_0121.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 23.
+(Font)              scaled to size 9.60999pt on input line 24.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 23.
+(Font)              scaled to size 9.60999pt on input line 24.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 23.
+(Font)              scaled to size 13.83836pt on input line 24.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 23.
+(Font)              scaled to size 13.83836pt on input line 24.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 23.
+(Font)              scaled to size 23.90964pt on input line 24.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 23.
+(Font)              scaled to size 23.90964pt on input line 24.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 23.
+(Font)              scaled to size 19.9311pt on input line 24.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 23.
+(Font)              scaled to size 19.9311pt on input line 24.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 23.
+(Font)              scaled to size 23.90964pt on input line 24.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 23.
+(Font)              scaled to size 19.9311pt on input line 24.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 23.
+(Font)              scaled to size 16.60605pt on input line 24.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 23.
+(Font)              scaled to size 16.60605pt on input line 24.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 23.
+(Font)              scaled to size 13.83836pt on input line 24.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 23.
+(Font)              scaled to size 13.83836pt on input line 24.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 23.
+(Font)              scaled to size 6.72699pt on input line 24.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 23.
+(Font)              scaled to size 6.72699pt on input line 24.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 23.
+(Font)              scaled to size 16.60605pt on input line 24.
  [1
 
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
  (c:/usr/local/share/texmf/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
  [0
 
 ] [1
@@ -216,7 +216,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 32.
+(Font)              scaled to size 23.90964pt on input line 33.
 
 (./卒業論文_0121.toc
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
@@ -228,43 +228,43 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 \openout3 = `卒業論文_0121.toc'.
 
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 33.
+(Font)              scaled to size 8.64899pt on input line 34.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 33.
+(Font)              scaled to size 8.64899pt on input line 34.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 33.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 33.
+(Font)              scaled to size 8.64899pt on input line 34.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 33.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 33.
+(Font)              scaled to size 8.64899pt on input line 34.
 LaTeX Font Info:    Font shape `JT1/gt/bx/n' in size <9> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 33.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 33.
+(Font)              scaled to size 8.64899pt on input line 34.
 LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <9> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 33.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 33.
+(Font)              scaled to size 8.64899pt on input line 34.
  [3] [4
 
 ]
 第1章
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 42.
+(Font)              scaled to size 19.9311pt on input line 43.
 [1
 
 ]
 第2章
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 67.
+(Font)              scaled to size 11.53198pt on input line 68.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 67.
+(Font)              scaled to size 11.53198pt on input line 68.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 67.
+(Font)              scaled to size 11.53198pt on input line 68.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 67.
+(Font)              scaled to size 11.53198pt on input line 68.
 File: ./figure/translation.eps Graphic file (type eps)
 <./figure/translation.eps>
 File: ./figure/1rink.eps Graphic file (type eps)
@@ -284,22 +284,24 @@ File: ./figure/2rink_2.eps Graphic file (type eps)
 第3章
 [7
 
-] [8]
+]
+File: ./figure/gazou.eps Graphic file (type eps)
+ <./figure/gazou.eps> [8] [9]
 第4章
-[9
+[10
 
-] [10] [11]
+] [11] [12]
 第5章
-[12
+[13
 
 ]
 第6章
-[13
-
-] [14
-
+[14
 
 ] [15
+
+
+] [16
 
 ] (./卒業論文_0121.aux)
 
@@ -307,12 +309,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1606 strings out of 94488
- 18400 string characters out of 1175027
+ 1610 strings out of 94488
+ 18464 string characters out of 1175027
  75684 words of memory out of 1500000
- 4940 multiletter control sequences out of 10000+50000
+ 4943 multiletter control sequences out of 10000+50000
  26988 words of font info for 115 fonts, out of 600000 for 2000
  684 hyphenation exceptions out of 8191
  29i,14n,21p,855b,562s stack positions out of 3000i,500n,5000p,200000b,5000s
 
-Output written on 卒業論文_0121.dvi (21 pages, 44196 bytes).
+Output written on 卒業論文_0121.dvi (22 pages, 45396 bytes).
