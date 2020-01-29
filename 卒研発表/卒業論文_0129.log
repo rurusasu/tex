@@ -1,4 +1,4 @@
-This is pTeXk, Version 3.141592-p3.1.9 (sjis) (Web2C 7.5.5) (format=platex 2006.4.29)  29 JAN 2020 12:52
+This is pTeXk, Version 3.141592-p3.1.9 (sjis) (Web2C 7.5.5) (format=platex 2006.4.29)  29 JAN 2020 15:54
  Source specials enabled.
 **卒業論文_0129.tex
 (./卒業論文_0129.tex
@@ -349,12 +349,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1630 strings out of 94488
- 18847 string characters out of 1175027
+ 1631 strings out of 94488
+ 18863 string characters out of 1175027
  75684 words of memory out of 1500000
- 4956 multiletter control sequences out of 10000+50000
+ 4957 multiletter control sequences out of 10000+50000
  26988 words of font info for 115 fonts, out of 600000 for 2000
  684 hyphenation exceptions out of 8191
  29i,15n,23p,752b,667s stack positions out of 3000i,500n,5000p,200000b,5000s
 
-Output written on 卒業論文_0129.dvi (22 pages, 44840 bytes).
+Output written on 卒業論文_0129.dvi (22 pages, 45364 bytes).
