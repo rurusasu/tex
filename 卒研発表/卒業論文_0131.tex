@@ -612,9 +612,35 @@ Bradley–@‚Í, “ü—Í‰æ‘œã‚Ì’–Ú‰æ‘f‚ğ’†S‚Æ‚·‚é, ‚ ‚é—Ìˆæ“à($s \times s$)‚Ì‰æ‘f’l‚
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{ƒp[ƒZƒvƒgƒƒ“}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-ƒp[ƒZƒvƒgƒƒ“‚Í, }\ref{perceptron}‚É¦‚·‚æ‚¤‚É, (n+1)ŸŒ³ƒxƒNƒgƒ‹${\bf x} = (x_0, x_1, x_2,  \cdots, x_n)$‚©‚ç‚È‚é“ü—Í‚ğ‚Â. 
+ƒp[ƒZƒvƒgƒƒ“‚Í, }\ref{fig:perceptron}[a]‚É¦‚·‚æ‚¤‚É, (n+1)ŸŒ³ƒxƒNƒgƒ‹${\bf x} = (x_0, x_1, x_2,  \cdots, x_n)$‚©‚ç‚È‚é“ü—Í‚ğ‚Â. 
 ‚±‚±‚Å$x_0$‚ÍP“™“I‚É$1$‚ÉƒZƒbƒg‚³‚ê(‚±‚ê‚ÍƒoƒCƒAƒX“ü—Í‚ÆŒÄ‚Î‚ê‚é).
 ‚»‚µ‚Ä, ®\ref{perceptron_out}‚Ì‚æ‚¤‚É, d‚İ•t‚¯“ü—Í˜a‚ª$\theta$‚æ‚è‘½‚«‚¯‚ê‚Îƒp[ƒZƒvƒgƒƒ“‚Ìo—Í‚Í1‚Å‚ ‚è, 0ˆÈ‰º‚Å‚ ‚ê‚Îo—Í‚Í0‚Å‚ ‚é.
+\begin{figure} [htbp]
+	\begin{center}
+		\begin{tabular}{c}
+		
+		% 1
+		\begin{minipage}{0.5\hsize}
+			\begin{center}
+				\includegraphics[clip, width=6cm]{./figure/perceptron.eps}
+				\hspace{1.6cm} [a] perceptron
+			\end{center}
+		\end{minipage}
+		
+		% 2
+		\begin{minipage}{0.5\hsize}
+			\begin{center}
+				\includegraphics[clip, width=6cm]{./figure/2ClassSeparable.eps}
+				\hspace{1.6cm} [b] 2Class Separable
+			\end{center}
+		\end{minipage}
+		
+		\end{tabular}
+		\caption{ƒp[ƒZƒvƒgƒƒ“‚ÌŠT—v‚ÆŒ‹‰Ê}
+		\label{fig:perceptron}
+	\end{center}
+\end{figure}
+
 \begin{equation}
 	\label{perceptron_out}
 	y' = \left\{
@@ -624,19 +650,10 @@ Bradley–@‚Í, “ü—Í‰æ‘œã‚Ì’–Ú‰æ‘f‚ğ’†S‚Æ‚·‚é, ‚ ‚é—Ìˆæ“à($s \times s$)‚Ì‰æ‘f’l‚
 		\end{array}
 		\right.
 \end{equation}
-
-\begin{figure}[ht]
-	\begin{center}
-		\includegraphics[width=50mm,clip]{./figure/perceptron.eps}
-		\caption{perceptron}
-		\label{perceptron}
-	\end{center}
-\end{figure}
-
 ‚Ü‚½ƒp[ƒZƒvƒgƒƒ“‚Í, “ü—ÍM†‚É1‘Î1‚Å‘Î‰‚·‚éd‚İ${\bf w} = (w_0, w_1, w_2,  \cdots, w_n)$‚ğ‚à‚¿, ‚»‚Ìd‚İ‚Í, ŠeM†‚Ìd—v«‚ğƒRƒ“ƒgƒ[ƒ‹‚·‚é—v‘f‚Æ‚µ‚Ä“­‚­.
 ‚·‚È‚í‚¿, ‚±‚Ìd‚İ‚ÍƒVƒiƒvƒX‚ÌŒ‹‡‹­“x‚ğ•\‚µ, ’l‚ª‘å‚«‚¯‚ê‚Î‘å‚«‚¢‚Ù‚Ç, ‚»‚Ìd‚İ‚É‘Î‰‚·‚éM†‚Ìd—v«‚ª‚‚­‚È‚é.
 
-ƒp[ƒZƒvƒgƒƒ“‚Ì—˜“_‚Í, }‚É¦‚·‚æ‚¤‚É, nŸŒ³‹óŠÔ“à‚É‚¨‚¯‚é“_‚ğ2‚Â‚Ìƒpƒ^[ƒ“‚É•ª—Ş‚Å‚«‚é‚±‚Æ‚Å‚ ‚é. 
+ƒp[ƒZƒvƒgƒƒ“‚Ì—˜“_‚Í, }\ref{fig:perceptron}[b]‚É¦‚·‚æ‚¤‚É, nŸŒ³‹óŠÔ“à‚É‚¨‚¯‚é“_‚ğ2‚Â‚Ìƒpƒ^[ƒ“‚É•ª—Ş‚Å‚«‚é‚±‚Æ‚Å‚ ‚é. 
 ‚±‚±‚Å, ‚»‚ê‚¼‚ê‚Ì“_‚ÌÀ•W‚ÍƒNƒ‰ƒX•ª‚¯‚³‚ê‚é‘ÎÛ‚Ì‘®«‚Ü‚½‚Í“Á’¥‚ğ•\‚·.
 ‚»‚Ì2ƒNƒ‰ƒX‚Í, ’Pƒ‚ÈüŒ`’´•½–Ê(2ŸŒ³‚É‚¨‚¢‚Ä‚Í’¼ü, 3ŸŒ³‹óŠÔ‚É‚¨‚¢‚Ä‚Í•½–Ê, ‚»‚µ‚ÄnŸŒ³‹óŠÔ‚É‚¨‚¢‚Ä‚Í$(n-1)$ŸŒ³•½–Ê)‚ÅŒİ‚¢‚É•ª—£‚Å‚«, ‚±‚Ì«¿‚ğ‚ÂƒNƒ‰ƒX‚ğüŒ`•ª—£‰Â”\‚Æ‚¢‚¤. 
 
@@ -646,6 +663,12 @@ Bradley–@‚Í, “ü—Í‰æ‘œã‚Ì’–Ú‰æ‘f‚ğ’†S‚Æ‚·‚é, ‚ ‚é—Ìˆæ“à($s \times s$)‚Ì‰æ‘f’l‚
 	{\bf w'} = {\bf w} + (y - y'){\bf x}  
 \end{equation}
 ‚±‚±‚Å$y$‚Í“ü—Í${\bf x}$‚Ì³‚µ‚¢ƒNƒ‰ƒX”Ô†, $y'$‚Íƒp[ƒZƒvƒgƒƒ“‚Ìo—Í‚Å‚ ‚é. 
+ƒp[ƒZƒvƒgƒƒ“‚Ì”­–¾‚É‘±‚¢‚ÄRosenblatt‚Í, üŒ`•ª—£‰Â”\‚ÈƒNƒ‰ƒX‚ª—^‚¦‚ç‚ê‚é‚Æ, ƒp[ƒZƒvƒgƒƒ“‚Í, ‚»‚ÌƒNƒ‰ƒX‚ğ•ª—£‚·‚éd‚İƒxƒNƒgƒ‹‚ğ—L‰ñ‚ÌŠwK‚Åì‚èo‚·‚±‚Æ(‚»‚Ìƒpƒ^[ƒ“‚ÌƒNƒ‰ƒX•ª‚¯ì‹Æ‚ğŠ®àø‚É$(y-y')=0$‚Å’B¬‚·‚é)‚ğØ–¾‚µ‚½. ‚±‚ÌØ–¾‚Íd‚İ‚Ì‰Šú’l‚ÉŠÖŒW‚È‚­¬‚è—§‚Â.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ƒp[ƒZƒvƒgƒƒ“‚ÌŒÀŠE}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Rosenblatt‚É‚æ‚éØ–¾‚Í, ƒjƒ…[ƒƒRƒ“ƒsƒ…[ƒeƒBƒ“ƒO‚Ì•ª–ì‚É‘å‚«‚È‹»•±‚ğŠª‚«‹N‚±‚µ‚½‚ª, 2ƒNƒ‰ƒX‚ª’Pƒ‚ÈüŒ`’´•½–Ê‚Å•ª—£‰Â”\‚Èê‡‚Ì‚İ‚Æ‚¢‚¤§ŒÀ‚Íc‚³‚ê‚½‚Ü‚Ü‚Å‚ ‚Á‚½. 1969”N, M. Minsky‚ÆS. Papert‚É‚æ‚è’˜‘''ƒp[ƒZƒvƒgƒƒ“''‚É‚Ä, ”r‘¼“I˜_—˜a(XOR)˜_—ŠÖ”($f(0, 0)=f(1, 1)=0, f(0, 1)=f(1, 0)=1$‚Æ‚È‚éŠÖ”)‚ğÀŒ»‚Å‚«‚È‚¢‚Î‚©‚è‚©, ‘¼‚Ì‘½‚­‚Ì‚»‚Ì‚æ‚¤‚ÈqŒêŠÖ”‚àÀŒ»‚Å‚«‚È‚¢‚±‚Æ‚ğØ–¾‚µ‚½. 
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{ô‚İ‚İƒlƒbƒgƒ[ƒN}
