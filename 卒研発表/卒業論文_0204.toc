@@ -17,7 +17,7 @@
 \contentsline {section}{\numberline {4.4}ニューラルネットワーク}{12}% 
 \contentsline {subsection}{\numberline {4.4.1}パーセプトロン}{13}% 
 \contentsline {subsection}{\numberline {4.4.2}パーセプトロンの限界}{14}% 
-\contentsline {subsection}{\numberline {4.4.3}ADALINE(Adaptive Liner Neuron)}{14}% 
+\contentsline {subsection}{\numberline {4.4.3}ADALINE(Adaptive Liner Neuron)}{15}% 
 \contentsline {subsection}{\numberline {4.4.4}多層パーセプトロン}{15}% 
 \contentsline {section}{\numberline {4.5}畳み込みネットワーク}{15}% 
 \contentsline {section}{\numberline {4.6}コスト関数}{15}% 
