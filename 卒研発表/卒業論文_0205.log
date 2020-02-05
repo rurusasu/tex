@@ -1,7 +1,7 @@
-This is pTeXk, Version 3.141592-p3.1.9 (sjis) (Web2C 7.5.5) (format=platex 2006.4.29)  4 FEB 2020 20:42
+This is pTeXk, Version 3.141592-p3.1.9 (sjis) (Web2C 7.5.5) (format=platex 2006.4.29)  5 FEB 2020 12:03
  Source specials enabled.
-**卒業論文_0204.tex
-(./卒業論文_0204.tex
+**卒業論文_0205.tex
+(./卒業論文_0205.tex
 pLaTeX2e <2006/01/04>+0 (based on LaTeX2e <2005/12/01> patch level 0)
 Babel <v3.8h> and hyphenation patterns for english, usenglishmax, ukenglish, ba
 sque, bulgarian, coptic, welsh, czech, slovak, german, ngerman, danish, spanish
@@ -139,15 +139,18 @@ Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
 \symboldmincho=\mathgroup8
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
 LaTeX Info: Redefining \bm on input line 203.
-) (./卒業論文_0204.aux
+) (./卒業論文_0205.aux
 
 LaTeX Warning: Label `ForwardKinematicEquation_diff' multiply defined.
 
 
 LaTeX Warning: Label `fig:global' multiply defined.
 
+
+LaTeX Warning: Label `perceptron_learning_low' multiply defined.
+
 )
-\openout1 = `卒業論文_0204.aux'.
+\openout1 = `卒業論文_0205.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
@@ -231,14 +234,14 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 23.90964pt on input line 33.
 
-(./卒業論文_0204.toc
+(./卒業論文_0205.toc
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 4.805pt on input line 3.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 4.805pt on input line 3.
 )
 \tf@toc=\write3
-\openout3 = `卒業論文_0204.toc'.
+\openout3 = `卒業論文_0205.toc'.
 
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 8.64899pt on input line 34.
@@ -359,11 +362,32 @@ LaTeX Warning: Reference `Neuron' on page 12 undefined on input line 605.
 LaTeX Warning: Reference `Neuron' on page 12 undefined on input line 606.
 
 [12]
+! Extra alignment tab has been changed to \cr.
+<template> \egroup \endtemplate 
+                                
+l.633 ^^I           &=&
+                        ({\bf w}_1^T, {\bf w}_2^T, \cdots, {\bf w}_N^T)^T
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+! LaTeX Error: Too many columns in eqnarray environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.634 \end{eqnarray}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 File: ./figure/perceptron.eps Graphic file (type eps)
- <./figure/perceptron.eps>
+<./figure/perceptron.eps>
 File: ./figure/2ClassSeparable.eps Graphic file (type eps)
  <./figure/2ClassSeparable.eps>
-Overfull \hbox (15.33333pt too wide) in paragraph at lines 633--652
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 642--661
  [][] 
  []
 
@@ -382,7 +406,7 @@ File: ./figure/XOR_1.eps Graphic file (type eps)
 
 ] [19
 
-] (./卒業論文_0204.aux)
+] (./卒業論文_0205.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -391,12 +415,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1647 strings out of 94488
- 19140 string characters out of 1175027
- 75401 words of memory out of 1500000
- 4968 multiletter control sequences out of 10000+50000
+ 1648 strings out of 94488
+ 19148 string characters out of 1175027
+ 75412 words of memory out of 1500000
+ 4969 multiletter control sequences out of 10000+50000
  26988 words of font info for 115 fonts, out of 600000 for 2000
  684 hyphenation exceptions out of 8191
  29i,15n,23p,752b,667s stack positions out of 3000i,500n,5000p,200000b,5000s
 
-Output written on 卒業論文_0204.dvi (25 pages, 58040 bytes).
+Output written on 卒業論文_0205.dvi (25 pages, 58648 bytes).
