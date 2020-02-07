@@ -1,0 +1,30 @@
+\contentsline {chapter}{\numberline {第1章}緒言}{1}% 
+\contentsline {chapter}{\numberline {第2章}運動学}{2}% 
+\contentsline {section}{\numberline {2.1}順運動学}{2}% 
+\contentsline {subsection}{\numberline {2.1.1}計算方法}{2}% 
+\contentsline {section}{\numberline {2.2}逆運動学}{4}% 
+\contentsline {chapter}{\numberline {第3章}画像認識}{7}% 
+\contentsline {section}{\numberline {3.1}画像処理}{7}% 
+\contentsline {subsection}{\numberline {3.1.1}色空間}{7}% 
+\contentsline {subsection}{\numberline {3.1.2}二値化}{7}% 
+\contentsline {subsection}{\numberline {3.1.3}Bradley法}{8}% 
+\contentsline {section}{\numberline {3.2}2つの閾値を用いた二値化処理}{8}% 
+\contentsline {section}{\numberline {3.3}Canny法を用いたオブジェクト抽出}{9}% 
+\contentsline {chapter}{\numberline {第4章}人工知能}{11}% 
+\contentsline {section}{\numberline {4.1}人工知能}{11}% 
+\contentsline {section}{\numberline {4.2}機械学習}{11}% 
+\contentsline {section}{\numberline {4.3}深層学習}{12}% 
+\contentsline {section}{\numberline {4.4}ニューラルネットワーク}{12}% 
+\contentsline {subsection}{\numberline {4.4.1}パーセプトロン}{13}% 
+\contentsline {subsection}{\numberline {4.4.2}パーセプトロンの限界}{14}% 
+\contentsline {subsection}{\numberline {4.4.3}ADALINE(Adaptive Liner Neuron)}{15}% 
+\contentsline {subsection}{\numberline {4.4.4}多層パーセプトロン}{15}% 
+\contentsline {section}{\numberline {4.5}コスト関数}{16}% 
+\contentsline {section}{\numberline {4.6}畳み込みネットワーク}{16}% 
+\contentsline {chapter}{\numberline {第5章}実機による動作実験}{17}% 
+\contentsline {section}{\numberline {5.1}Dobot}{17}% 
+\contentsline {section}{\numberline {5.2}学習データ}{17}% 
+\contentsline {section}{\numberline {5.3}実験結果}{17}% 
+\contentsline {chapter}{\numberline {第6章}今後の方針}{18}% 
+\contentsline {chapter}{謝辞}{19}% 
+\contentsline {chapter}{参考文献}{20}% 
